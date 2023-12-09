@@ -17,6 +17,7 @@ public class CountPrimeNo {
 	    		  c++;
 	      }
 	      System.out.println("Total count of prime number is :"+c);
+	      System.out.println("helo git");
 	}
 
 }
